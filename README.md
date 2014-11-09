@@ -1,5 +1,6 @@
 github-help Github帮助文档
 ===========
+![github-help](http://i1288.photobucket.com/albums/b484/waylau/waylau%20blog/github_help_zps9f50a555.jpg)
 
 Chinese translation of the Github Help(https://help.github.com/index.html) and the other article collection.  
 

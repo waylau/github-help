@@ -13,7 +13,7 @@ Dealing with non-fast-forward errors 处理 non-fast-forward 错误
 	# Merge the remote changes (e.g. 'git pull') before pushing again.  See the
 	# 'Note about fast-forwards' section of 'git push --help' for details.
 
-可以在本地通过  fetch（获取） 与 merge （合并）  相同的分支的  change （变化） 来解决:
+可以在本地通过  [fetch（获取） 与 merge （合并）](https://github.com/waylau/github-help/blob/master/Fetching%20a%20remote%20%E8%8E%B7%E5%8F%96%E8%BF%9C%E7%A8%8B%E5%BA%93.md)  相同的分支的  change （变化） 来解决:
 
 	$ git fetch origin
 	# Fetches updates made to an online repository

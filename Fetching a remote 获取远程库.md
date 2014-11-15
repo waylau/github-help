@@ -19,7 +19,7 @@ Fetching a remote 获取远程库
 	$ git clone https://github.com/USERNAME/REPOSITORY.git
 	# Clones a repository to your computer
 
-你可以选[不同的 URL](https://help.github.com/articles/which-remote-url-should-i-use) 来复制 库。当登录系统，可以看到：
+你可以选[不同的 URL](https://github.com/waylau/github-help/blob/master/Which%20remote%20URL%20should%20I%20use%20%E6%88%91%E5%BA%94%E8%AF%A5%E7%94%A8%E5%93%AA%E7%A7%8D%E8%BF%9C%E7%A8%8B%20URL%20.md) 来复制 库。当登录系统，可以看到：
 
 ![##Clone ](https://help.github.com/assets/images/help/repository/remotes-url.png)
 

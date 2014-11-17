@@ -11,7 +11,7 @@ Error:Repository not found 错误 库没有找到
 
 ![url](https://help.github.com/assets/images/help/repository/https-url-clone.png)
 
-更新存在的远程库，请移步至“[更改远程 URL](https://help.github.com/articles/changing-a-remote-s-url)”
+更新存在的远程库，请移步至“[更改远程 URL](https://github.com/waylau/github-help/blob/master/Changing%20a%20remote's%20URL%20%E4%BF%AE%E6%94%B9%E8%BF%9C%E7%A8%8B%20URL.md)”
 
 ##Checking your permissions 检查你的权限
 

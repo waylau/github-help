@@ -54,10 +54,11 @@ Chinese translation of the Github Help(https://help.github.com/index.html) and t
 
 * [Changing a remote's URL 修改远程 URL](https://github.com/waylau/github-help/blob/master/Changing%20a%20remote's%20URL%20%E4%BF%AE%E6%94%B9%E8%BF%9C%E7%A8%8B%20URL.md)
 * [Dealing with non-fast-forward errors 处理 non-fast-forward 错误](https://github.com/waylau/github-help/blob/master/Dealing%20with%20non-fast-forward%20errors%20%E5%A4%84%E7%90%86%20non-fast-forward%20%E9%94%99%E8%AF%AF.md)
-* [Fetching a remote](https://github.com/waylau/github-help/blob/master/Fetching%20a%20remote%20%E8%8E%B7%E5%8F%96%E8%BF%9C%E7%A8%8B%E5%BA%93.md)
+* [Fetching a remote 获取远程库](https://github.com/waylau/github-help/blob/master/Fetching%20a%20remote%20%E8%8E%B7%E5%8F%96%E8%BF%9C%E7%A8%8B%E5%BA%93.md)
 * [Which remote URL should I use 我应该用哪种远程 URL](https://github.com/waylau/github-help/blob/master/Which%20remote%20URL%20should%20I%20use%20%E6%88%91%E5%BA%94%E8%AF%A5%E7%94%A8%E5%93%AA%E7%A7%8D%E8%BF%9C%E7%A8%8B%20URL%20.md)
 * [Why is Git always asking for my password 为啥 Git 总是要询问我的密码](https://github.com/waylau/github-help/blob/master/Why%20is%20Git%20always%20asking%20for%20my%20password%20%E4%B8%BA%E5%95%A5%20git%20%E6%80%BB%E6%98%AF%E8%A6%81%E8%AF%A2%E9%97%AE%E6%88%91%E7%9A%84%E5%AF%86%E7%A0%81.md)
 * [Caching your GitHub password in Git 保存你的 Github 密码](https://github.com/waylau/github-help/blob/master/Caching%20your%20GitHub%20password%20in%20Git%20%E4%BF%9D%E5%AD%98%E4%BD%A0%E7%9A%84%20Github%20%E5%AF%86%E7%A0%81.md) 
+
 ##SSH
 
 * [Generating SSH keys 生成 SSH 密钥](https://github.com/waylau/github-help/blob/master/Generating%20SSH%20keys%20%E7%94%9F%E6%88%90%20SSH%20%E5%AF%86%E9%92%A5.md)

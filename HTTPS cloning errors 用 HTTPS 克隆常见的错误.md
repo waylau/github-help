@@ -18,7 +18,7 @@ HTTPS cloning errors 用 HTTPS 克隆常见的错误
 
 ##Check your Git version 检查 Git 版本
 
-使用 Github 对 Git 版本没有限制，但我们发现在众多平台中  version 1.7.10 是比较稳定的版本。你最好下载最新的版本。
+使用 Github 对 Git 版本没有限制，但我们发现在众多平台中  version 1.7.10 是比较稳定的版本。你最好[下载](http://git-scm.com/downloads)最新的版本。
 
 ##Ensure the remote is correct 确认远程是正确的
 
@@ -39,11 +39,11 @@ HTTPS cloning errors 用 HTTPS 克隆常见的错误
 	# origin  https://github.com/github/ReactiveCocoa.git (fetch)
 	# origin  https://github.com/github/ReactiveCocoa.git (push)
 
-另外,你可以在 Mac 或者 Windows 应用程序中变换 URL
+另外,你可以在 [Mac](http://mac.github.com/) 或者 [Windows](http://windows.github.com/) 应用程序中变换 URL
 
 ##Provide access token if 2FA enabled 提供访问令牌如果 2FA 启动的话
 
-如果启动 2FA (two-factor authentication 双因素认证),必须提供个人访问令牌来替换输入个人密码。
+如果启动 [2FA](https://help.github.com/articles/about-two-factor-authentication) (two-factor authentication 双因素认证),必须提供[个人访问令牌](https://help.github.com/articles/creating-an-access-token-for-command-line-use)来替换输入个人密码。
 
 ##Checking your permissions 检查权限
 

@@ -26,12 +26,16 @@ Chinese translation of the Github Help(https://help.github.com/index.html) and t
 
 ##Billing 计费
 
+* [Do you have custom plans? 你有个人计划吗?](https://github.com/waylau/github-help/blob/master/Do%20you%20have%20custom%20plans%20%E4%BD%A0%E6%9C%89%E4%B8%AA%E4%BA%BA%E8%AE%A1%E5%88%92%E5%90%97.md)
+
 ##Paying for User Accounts 付费用户帐户
 
 ##Paying for Organization Accounts 支付机构账户
 
 ##Repositories 库
 
+* [What is my disk quota 我的磁盘配额是什么](https://github.com/waylau/github-help/blob/master/What%20is%20my%20disk%20quota%20%E6%88%91%E7%9A%84%E7%A3%81%E7%9B%98%E9%85%8D%E9%A2%9D%E6%98%AF%E4%BB%80%E4%B9%88.md)
+* [HTTPS cloning errors 用 HTTPS 克隆常见的错误](https://github.com/waylau/github-help/blob/master/HTTPS%20cloning%20errors%20%E7%94%A8%20HTTPS%20%E5%85%8B%E9%9A%86%E5%B8%B8%E8%A7%81%E7%9A%84%E9%94%99%E8%AF%AF.md)
 * [Error:Repository not found 错误 库没有找到](https://github.com/waylau/github-help/blob/master/Error%20Repository%20not%20found%20%E9%94%99%E8%AF%AF%20%E5%BA%93%E6%B2%A1%E6%9C%89%E6%89%BE%E5%88%B0.md)
 
 ##Search 搜索

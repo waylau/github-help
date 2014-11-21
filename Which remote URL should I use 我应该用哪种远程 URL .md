@@ -5,7 +5,7 @@ Which remote URL should I use 我应该用哪种远程 URL
 
 ![URL](https://help.github.com/assets/images/help/repository/remotes-url.png)
 
-如何设置，查看 [Changing a remote's URL.](https://help.github.com/articles/changing-a-remote-s-url)
+如何设置，查看 [修改远程 URL](https://github.com/waylau/github-help/blob/master/Changing%20a%20remote's%20URL%20%E4%BF%AE%E6%94%B9%E8%BF%9C%E7%A8%8B%20URL.md)
 
 ##Cloning with HTTPS (recommended) 推荐使用 HTTPS
 

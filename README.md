@@ -34,6 +34,8 @@ Chinese translation of the Github Help(https://help.github.com/index.html) and t
 
 * [Error:Repository not found 错误 库没有找到](https://github.com/waylau/github-help/blob/master/Error%20Repository%20not%20found%20%E9%94%99%E8%AF%AF%20%E5%BA%93%E6%B2%A1%E6%9C%89%E6%89%BE%E5%88%B0.md)
 
+* [What are the limits for viewing content and diffs in my repository 在版本库浏览内容和文件比较的限制是什么](What are the limits for viewing content and diffs in my repository 在版本库浏览内容和文件比较的限制是什么.md)
+
 ##Search 搜索
 
 ##Notifications 通知

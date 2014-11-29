@@ -3,7 +3,7 @@ Distributing large binaries 分发大型二进制文件.
 
 当项目需要分发大型的文件，比如 二进制文件或者安装包时，有几种廉价方式提供大容量存储和分发大型文件。
 
-我们推荐在 Github 上 创建[项目的发布包]()。发布包允许包括二进制文件，比如编译后的程序。更多信息，参阅[创建发布包]()。
+我们推荐在 Github 上 创建[项目的发布包](https://github.com/waylau/github-help/blob/master/About%20Releases%20%E5%85%B3%E4%BA%8E%E5%8F%91%E5%B8%83%E5%8C%85.md)。发布包允许包括二进制文件，比如编译后的程序。更多信息，参阅[创建发布包](https://github.com/waylau/github-help/blob/master/Creating%20Releases%20%E5%88%9B%E5%BB%BA%E5%8F%91%E5%B8%83%E5%8C%85.md)。
 
 暂时，我们没有在二进制文件的大小和上传带宽做任何限制。
 

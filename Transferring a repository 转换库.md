@@ -51,6 +51,29 @@ Transferring a repository 转换库
 
 ##Transferring between organizations 组织间转换
 
+组织间转换，用户必须是组织的管理者或者是组织的拥有者。接收的组织也是一样。当库转换后，拥有者的组是唯一可以对库进行  read/write  访问，但他们可以选择添加其他组授予更多的 访问权限。详见[组织的权限级别](https://github.com/waylau/github-help/blob/master/Permission%20levels%20for%20an%20organization%20repository%20%E7%BB%84%E7%BB%87%E5%BA%93%E7%9A%84%E6%9D%83%E9%99%90%E7%BA%A7%E5%88%AB.md)
+
+##Transferring from an organization to a user 组织转用户
+
+进行转换，用户必须是组织的管理者或者是组织的拥有者。如果用户没有访问，一个临时的管理组可以仅在它下面创建用户和库。接收存储库的用户是唯一一个能执行转移。
+
+##Transferring from a user to an organization 用户转组织
+
+在接收前，用户必须具有管理或者是拥有的权限。如果用户不具备这样的权限，一个临时的管理组可以被他创建。发送库的用户是唯一一个能执行转移。
+
+当库转换后，拥有者的组是唯一可以对库进行  read/write  访问，但他们可以选择添加其他组授予更多的 访问权限。详见[组织的权限级别](https://github.com/waylau/github-help/blob/master/Permission%20levels%20for%20an%20organization%20repository%20%E7%BB%84%E7%BB%87%E5%BA%93%E7%9A%84%E6%9D%83%E9%99%90%E7%BA%A7%E5%88%AB.md)
+
+##Redirects and Git remotes 重定向以及 Git 远程
+
+当库被转换，所有链接库自动从以前的位置重定向到新的位置。
+
+除了重定向网站的流量，所有的 `git clone`，`git fetch`，或 `git push` 操作针对以前的位置将继续充当在新的位置。然而，这可有点混乱，所以我们强烈推荐更新任何现有的本地克隆以指向新库 URL。你可以用 git远程命令：
+
+	$git remote set-url origin new_url
+
+更多信息，见“[改变一个远程的URL](https://github.com/waylau/github-help/blob/master/Changing%20a%20remote's%20URL%20%E4%BF%AE%E6%94%B9%E8%BF%9C%E7%A8%8B%20URL.md)”。
+
+*警告：如果你创建一个新的库在您的帐户具有相同名字的库，现有的重定向到转过来的库将打破。这样的话，为新的库使用不同的名称。*
 
 
 

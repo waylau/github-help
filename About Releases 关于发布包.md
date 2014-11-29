@@ -12,7 +12,7 @@ About Releases 关于发布包
 * 如果这是一个[注释标签](http://git-scm.com/book/en/Git-Basics-Tagging#Annotated-Tags)，使用标签对象的日期。
 * 如果它是一个[轻量级的标签](http://git-scm.com/book/en/Git-Basics-Tagging#Lightweight-Tags)，使用对象提交的日期。
 
-更多信息可以查看你的标签，详见["和标签工作"]()
+更多信息可以查看你的标签，详见["和标签工作"](https://github.com/waylau/github-help/blob/master/About%20Releases%20%E5%85%B3%E4%BA%8E%E5%8F%91%E5%B8%83%E5%8C%85.md)
 
 ##Limitations on binary files 二进制文件的限制
 

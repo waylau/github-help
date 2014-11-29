@@ -12,6 +12,7 @@ Transferring a repository 转换库
 * 如果该库是 fork ,它仍然保留与上游库的关系
 * 如果包含 GitHub Pages 站点，网络上库的连接和通过 Git 的活动点被重定向。然而，我们不把 GitHub库 相关的网页重定向。
 * 如果库包含了 webhooks，服务，或部署的密匙，他们仍将在转换完成后保留。
-* 如果库有 fork ，那么这些 fork 会关联新的 库。fork 你库的人将更新 远程 URL 到新的 Git 库，来继续 [开启 pull  请求]()。
+* 如果库有 fork ，那么这些 fork 会关联新的 库。fork 你库的人将更新 远程 URL 到新的 Git 库，来继续 [开启 pull  请求](https://github.com/waylau/github-help/blob/master/Creating%20a%20pull%20request%20%E5%88%9B%E5%BB%BA%20pull%20%E8%AF%B7%E6%B1%82.md)。
+* 所有的 Git 信息包括提交，包含提交，合作者会保存，除非 Git 历史被 `[git rebase]()` 从写。
 
 *参考*：[https://help.github.com/articles/transferring-a-repository/](https://help.github.com/articles/transferring-a-repository/)

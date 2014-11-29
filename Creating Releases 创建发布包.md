@@ -52,7 +52,7 @@ Creating Releases 创建发布包
 
 ##Further reading 扩展阅读
 
-* [链接到发布包]()
+* [链接到发布包](https://github.com/waylau/github-help/blob/master/Linking%20to%20releases%20%E9%93%BE%E6%8E%A5%E5%88%B0%E5%8F%91%E5%B8%83%E5%8C%85.md)
 
 
 

@@ -13,6 +13,45 @@ Transferring a repository 转换库
 * 如果包含 GitHub Pages 站点，网络上库的连接和通过 Git 的活动点被重定向。然而，我们不把 GitHub库 相关的网页重定向。
 * 如果库包含了 webhooks，服务，或部署的密匙，他们仍将在转换完成后保留。
 * 如果库有 fork ，那么这些 fork 会关联新的 库。fork 你库的人将更新 远程 URL 到新的 Git 库，来继续 [开启 pull  请求](https://github.com/waylau/github-help/blob/master/Creating%20a%20pull%20request%20%E5%88%9B%E5%BB%BA%20pull%20%E8%AF%B7%E6%B1%82.md)。
-* 所有的 Git 信息包括提交，包含提交，合作者会保存，除非 Git 历史被 `[git rebase]()` 从写。
+* 所有的 Git 信息包括提交，包含提交，合作者会保存，除非 Git 历史被 `[git rebase](https://github.com/waylau/github-help/blob/master/About%20Git%20rebase%20%E5%85%B3%E4%BA%8E%20Git%20rebase.md)` 从写。
+
+##How are issue assignees handled? 如何处理问题受让人
+
+如果你将库从用户帐户转为组织，关联了组织成员的问题保持不变。所有其他人的问题将清除。只有组织拥有者可以创建新问题。
+
+如果你将库从组织转为用户帐户，与库拥有者关联的问题将保留，其余删除。
+
+当一个库是两个用户帐户之间转移，问题分配是完好的。
+
+##Transferring between user accounts 两个用户帐户之间转移
+
+转移前牢记：
+
+* 目标帐户在同一网络中不能具有相同名称的库或者 fork
+* 如果库是私人的，目标帐户必须具有至少一个未使用的私有库具有帐户支付。
+* 私人 fork 不能转让。
+
+###将库转给其他用户账户:
+
+1.打开库的页面
+
+2.点击 Settings 
+
+![](https://help.github.com/assets/images/help/repository/repo-actions-settings.png)
+
+3.点击 Transfer
+
+![](https://help.github.com/assets/images/help/repository/repo-transfer.png)
+
+4.确认
+
+5.输入新拥有者的名称，点击  I understand, transfer this repo
+
+![](https://help.github.com/assets/images/help/repository/repo-transfer-complete.png)
+
+##Transferring between organizations 组织间转换
+
+
+
 
 *参考*：[https://help.github.com/articles/transferring-a-repository/](https://help.github.com/articles/transferring-a-repository/)

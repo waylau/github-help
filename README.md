@@ -89,6 +89,11 @@ Chinese translation of the Github Help(https://help.github.com/index.html) and t
 
 ##Releases 发布
 
+* [About Releases 关于发布包](https://github.com/waylau/github-help/blob/master/About%20Releases%20%E5%85%B3%E4%BA%8E%E5%8F%91%E5%B8%83%E5%8C%85.md)
+* [Creating Releases 创建发布包](https://github.com/waylau/github-help/blob/master/Creating%20Releases%20%E5%88%9B%E5%BB%BA%E5%8F%91%E5%B8%83%E5%8C%85.md)
+* [Working with Tags 和标签工作](https://github.com/waylau/github-help/blob/master/Working%20with%20Tags%20%E5%92%8C%E6%A0%87%E7%AD%BE%E5%B7%A5%E4%BD%9C.md)
+* [Linking to releases 链接到发布包](https://github.com/waylau/github-help/blob/master/Linking%20to%20releases%20%E9%93%BE%E6%8E%A5%E5%88%B0%E5%8F%91%E5%B8%83%E5%8C%85.md)
+
 ##GitHub for Mac 在 Mac 电脑上用 Github
 
 ##GitHub for Windows 在 Windows 电脑上用 Github

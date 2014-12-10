@@ -14,11 +14,16 @@ Chinese translation of the Github Help(https://help.github.com/index.html) and t
 
 ##Setup 安装
 
+* [Signing up for a new GitHub account 注册新账号](https://github.com/waylau/github-help/blob/master/Signing%20up%20for%20a%20new%20GitHub%20account%20%E6%B3%A8%E5%86%8C%E6%96%B0%E8%B4%A6%E5%8F%B7.md)
+
 ##Using Git 使用 Git
 
 ##User Accounts 用户账号
 
 ##Organizations 组织
+
+* [Adding or inviting members to a team in an organization 添加或邀请组织成员到一个团队中](https://github.com/waylau/github-help/blob/master/Adding%20or%20inviting%20members%20to%20a%20team%20in%20an%20organization%20%E6%B7%BB%E5%8A%A0%E6%88%96%E9%82%80%E8%AF%B7%E7%BB%84%E7%BB%87%E6%88%90%E5%91%98%E5%88%B0%E4%B8%80%E4%B8%AA%E5%9B%A2%E9%98%9F%E4%B8%AD.md)
+* [What happens to forks when a repository is deleted or changes visibility 当库删除或者改变了可见性,其 fork 发生了什么](https://github.com/waylau/github-help/blob/master/What%20happens%20to%20forks%20when%20a%20repository%20is%20deleted%20or%20changes%20visibility%20%E5%BD%93%E5%BA%93%E5%88%A0%E9%99%A4%E6%88%96%E8%80%85%E6%94%B9%E5%8F%98%E4%BA%86%E5%8F%AF%E8%A7%81%E6%80%A7%2C%E5%85%B6%20fork%20%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88.md)
 
 ##Security 安装
 
@@ -34,6 +39,8 @@ Chinese translation of the Github Help(https://help.github.com/index.html) and t
 
 ##Repositories 库
 
+* [Making a public repository private 开放库转为私有](https://github.com/waylau/github-help/blob/master/Making%20a%20public%20repository%20private%20%E5%BC%80%E6%94%BE%E5%BA%93%E8%BD%AC%E4%B8%BA%E7%A7%81%E6%9C%89.md)
+* [Making a private repository public 私人库转为公开](https://github.com/waylau/github-help/blob/master/Making%20a%20private%20repository%20public%20%E7%A7%81%E4%BA%BA%E5%BA%93%E8%BD%AC%E4%B8%BA%E5%85%AC%E5%BC%80.md)
 * [What is my disk quota 我的磁盘配额是什么](https://github.com/waylau/github-help/blob/master/What%20is%20my%20disk%20quota%20%E6%88%91%E7%9A%84%E7%A3%81%E7%9B%98%E9%85%8D%E9%A2%9D%E6%98%AF%E4%BB%80%E4%B9%88.md)
 * [HTTPS cloning errors 用 HTTPS 克隆常见的错误](https://github.com/waylau/github-help/blob/master/HTTPS%20cloning%20errors%20%E7%94%A8%20HTTPS%20%E5%85%8B%E9%9A%86%E5%B8%B8%E8%A7%81%E7%9A%84%E9%94%99%E8%AF%AF.md)
 * [What are the limits for viewing content and diffs in my repository 在版本库浏览内容和文件比较的限制是什么](https://github.com/waylau/github-help/blob/master/What%20are%20the%20limits%20for%20viewing%20content%20and%20diffs%20in%20my%20repository%20%E5%9C%A8%E7%89%88%E6%9C%AC%E5%BA%93%E6%B5%8F%E8%A7%88%E5%86%85%E5%AE%B9%E5%92%8C%E6%96%87%E4%BB%B6%E6%AF%94%E8%BE%83f%E7%9A%84%E9%99%90%E5%88%B6%E6%98%AF%E4%BB%80%E4%B9%88.md)
@@ -50,11 +57,15 @@ Chinese translation of the Github Help(https://help.github.com/index.html) and t
 
 ##Collaborating 合作
 
+* [What happens to forks when a repository is deleted or changes visibility 当库删除或者改变了可见性,其 fork 发生了什么](https://github.com/waylau/github-help/blob/master/What%20happens%20to%20forks%20when%20a%20repository%20is%20deleted%20or%20changes%20visibility%20%E5%BD%93%E5%BA%93%E5%88%A0%E9%99%A4%E6%88%96%E8%80%85%E6%94%B9%E5%8F%98%E4%BA%86%E5%8F%AF%E8%A7%81%E6%80%A7%2C%E5%85%B6%20fork%20%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88.md)
+
 ##Managing projects 管理项目
 
 
 
 ##Managing Repository Collaborators 管理仓库的合作者
+
+* [Adding collaborators to a personal repository 添加合作者到个人的库](https://github.com/waylau/github-help/blob/master/Adding%20collaborators%20to%20a%20personal%20repository%20%E6%B7%BB%E5%8A%A0%E5%90%88%E4%BD%9C%E8%80%85%E5%88%B0%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%BA%93.md)
 
 ##Managing Remotes 管理远程
 

@@ -1,4 +1,4 @@
-Adding or inviting members to a team in an organization 添加或邀请成员到组织的一个团队中
+Adding or inviting members to a team in an organization 添加或邀请组织成员到一个团队中
 ===========
 
  

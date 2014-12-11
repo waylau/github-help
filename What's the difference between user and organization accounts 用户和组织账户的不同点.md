@@ -26,8 +26,7 @@ What's the difference between user and organization accounts 用户和组织账�
 * 计费凭证可以发送到第二个电子邮件地址
 * 所有者团队访问组织成员的[双因素认证（2FA）状态]（）
 
-##Further reading
+##Further reading 扩展阅读
 
-Signing up for a new GitHub account
-
-Creating a new organization account
+* Signing up for a new GitHub account
+* Creating a new organization account

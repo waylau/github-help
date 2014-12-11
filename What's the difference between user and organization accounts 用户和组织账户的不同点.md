@@ -28,5 +28,5 @@ What's the difference between user and organization accounts 用户和组织账�
 
 ##Further reading 扩展阅读
 
-* Signing up for a new GitHub account
-* Creating a new organization account
+* [注册新账号](https://github.com/waylau/github-help/blob/master/Signing%20up%20for%20a%20new%20GitHub%20account%20%E6%B3%A8%E5%86%8C%E6%96%B0%E8%B4%A6%E5%8F%B7.md)
+* [创建组织账号](https://github.com/waylau/github-help/blob/master/Creating%20a%20new%20organization%20account%20%E5%88%9B%E5%BB%BA%E7%BB%84%E7%BB%87%E8%B4%A6%E5%8F%B7.md)

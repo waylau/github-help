@@ -21,6 +21,12 @@ What happens to forks when a repository is deleted or changes visibility 当库�
 
 如果一个私人库变为公开的，它的每一个私有 fork 变成一个独立的私人仓库,并成为自己的新库母网络。私人 fork 不会自动公开，因为他们可能包含敏感的提交，不应该公开暴露。
 
-如果你拥有一个私人 fork 已被转换成一个独立的私人库，你将要买单。这只私人 fork 是免费的。如果你不签了一份支付计划，或者如果你没有一个房间在你当前的计划给其他私人库，库将被锁定。您必须升级或切换为公开库。（你可以随时[更改库为公开](https://github.com/waylau/github-help/blob/master/Making%20a%20private%20repository%20public%20%E7%A7%81%E4%BA%BA%E5%BA%93%E8%BD%AC%E4%B8%BA%E5%85%AC%E5%BC%80.md)。）
+如果你拥有一个私人 fork 已被转换成一个独立的私人库，你将要买单。这只私人 fork 是免费的。如果你不签了一份支付计划，或者如果你没有一个房间在你当前的计划给其他私人库，库将被锁定。您必须升级或切换为公开库。（你可以随时[更改库为公开](https://github.com/waylau/github-help/blob/master/Making%20a%20private%20repository%20public%20%E7%A7%81%E4%BA%BA%E5%BA%93%E8%BD%AC%E4%B8%BA%E5%85%AC%E5%BC%80.md)）
+
+更多关于当库被锁时发生了什么，请参见“[https://github.com/waylau/github-help/blob/master/What%20happens%20if%20my%20repository%20is%20locked%20%E5%BD%93%E5%BA%93%E9%94%81%E4%BD%8F%E6%97%B6%E5%8F%91%E7%94%9F%E4%BA%86%E5%95%A5.md](https://github.com/waylau/github-help/blob/master/What%20happens%20if%20my%20repository%20is%20locked%20%E5%BD%93%E5%BA%93%E9%94%81%E4%BD%8F%E6%97%B6%E5%8F%91%E7%94%9F%E4%BA%86%E5%95%A5.md)”
+
+###Deleting the public repository 删除公开库
+
+如果一个私有库转为公开的，然后删除，其私人 fork 将继续作为独立的私人库在单独的网络存在
 
 参考：[https://help.github.com/articles/what-happens-to-forks-when-a-repository-is-deleted-or-changes-visibility/#changing-a-public-repository-to-a-private-repository](https://help.github.com/articles/what-happens-to-forks-when-a-repository-is-deleted-or-changes-visibility/#changing-a-public-repository-to-a-private-repository)

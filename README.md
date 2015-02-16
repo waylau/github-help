@@ -95,6 +95,8 @@ Chinese translation of the Github Help(https://help.github.com/index.html) and t
 
 ##Manipulating Files 文件处理
 
+* [Deleting files 删除文件](Deleting files 删除文件.md)
+
 ##Working with non-code files 非编码的文件工作
 
 ##Commits 提交
@@ -102,6 +104,8 @@ Chinese translation of the Github Help(https://help.github.com/index.html) and t
 ##Gists
 
 ##Advanced Git 高级 Git 应用
+
+* [Remove sensitive data 删除敏感数据](Remove sensitive data 删除敏感数据.md)
 
 ##Releases 发布
 

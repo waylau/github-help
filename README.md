@@ -22,7 +22,7 @@ Chinese translation of the Github Help(https://help.github.com/index.html) and t
 
 * [What's the difference between user and organization accounts 用户和组织账户的不同点](https://github.com/waylau/github-help/blob/master/What's%20the%20difference%20between%20user%20and%20organization%20accounts%20%E7%94%A8%E6%88%B7%E5%92%8C%E7%BB%84%E7%BB%87%E8%B4%A6%E6%88%B7%E7%9A%84%E4%B8%8D%E5%90%8C%E7%82%B9.md)
 * [What happens to forks when a repository is deleted or changes visibility 当库删除或者改变了可见性,其 fork 发生了什么](https://github.com/waylau/github-help/blob/master/What%20happens%20to%20forks%20when%20a%20repository%20is%20deleted%20or%20changes%20visibility%20%E5%BD%93%E5%BA%93%E5%88%A0%E9%99%A4%E6%88%96%E8%80%85%E6%94%B9%E5%8F%98%E4%BA%86%E5%8F%AF%E8%A7%81%E6%80%A7%2C%E5%85%B6%20fork%20%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88.md)
-
+* [Verifying your email address 验证您的电子邮件地址](Verifying your email address 验证您的电子邮件地址.md)
 ##Organizations 组织
 
 * [Adding or inviting members to a team in an organization 添加或邀请组织成员到一个团队中](https://github.com/waylau/github-help/blob/master/Adding%20or%20inviting%20members%20to%20a%20team%20in%20an%20organization%20%E6%B7%BB%E5%8A%A0%E6%88%96%E9%82%80%E8%AF%B7%E7%BB%84%E7%BB%87%E6%88%90%E5%91%98%E5%88%B0%E4%B8%80%E4%B8%AA%E5%9B%A2%E9%98%9F%E4%B8%AD.md)

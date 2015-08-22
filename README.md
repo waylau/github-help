@@ -64,6 +64,7 @@ Chinese translation of the Github Help(https://help.github.com/index.html) and t
 
 ##Collaborating 合作
 
+* [Syncing a fork 同步一个 fork](Syncing a fork.md)
 * [What happens to forks when a repository is deleted or changes visibility 当库删除或者改变了可见性,其 fork 发生了什么](https://github.com/waylau/github-help/blob/master/What%20happens%20to%20forks%20when%20a%20repository%20is%20deleted%20or%20changes%20visibility%20%E5%BD%93%E5%BA%93%E5%88%A0%E9%99%A4%E6%88%96%E8%80%85%E6%94%B9%E5%8F%98%E4%BA%86%E5%8F%AF%E8%A7%81%E6%80%A7%2C%E5%85%B6%20fork%20%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88.md)
 
 ##Managing projects 管理项目

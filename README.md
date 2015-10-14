@@ -96,6 +96,8 @@ Chinese translation of the Github Help(https://help.github.com/index.html) and t
 
 ##Writing on GitHub 在 Github 上写作
 
+* [Markdown Basics 关于 Markdown 的基础](Markdown Basics.md)
+
 ##Manipulating Files 文件处理
 
 * [Deleting files 删除文件](Deleting files 删除文件.md)

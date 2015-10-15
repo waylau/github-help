@@ -96,7 +96,7 @@ Violets are blue
 
 ## 更多可见
 
-* [Markdown Basics 关于 Markdown 的基础](Markdown Basics.md)
+* [关于 Markdown 的基础](Markdown Basics.md)
 * [GitHub Flavored Markdown](GitHub Flavored Markdown.md)
 
 *参考*：<https://help.github.com/articles/writing-on-github>

@@ -117,5 +117,6 @@ GFM 增加了语法来创建删除线的文本，这是从标准的 Markdown 所
 ## 扩展阅读
 
 * [在 GitHub 上书写](Writing on GitHub.md)
+
 *参考*：<https://help.github.com/articles/github-flavored-markdown/>
 

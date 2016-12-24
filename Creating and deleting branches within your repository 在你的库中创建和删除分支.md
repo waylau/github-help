@@ -1,6 +1,7 @@
+
 Creating and deleting branches within your repository 在你的库中创建和删除分支
 ===========
- 
+
 分支管理是 Git 工作流中重要的一部分。你可以直接在 Github 上管理分支。
 
 ##Creating a branch 创建分支
@@ -13,7 +14,7 @@ Creating and deleting branches within your repository 在你的库中创建和�
 
 同样的，如果你去库的分支页面，你可以删除一个分支，只要你有适当的访问权限，并且没有对它进行 pull request
 
-！[](https://help.github.com/assets/images/help/branches/branches-overview.png)
+![](https://help.github.com/assets/images/help/branches/branches-overview.png)
 
 ##How is this useful? 怎么用
 

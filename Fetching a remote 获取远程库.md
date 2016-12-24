@@ -1,3 +1,4 @@
+
 Fetching a remote 获取远程库
 ===========
 
@@ -48,7 +49,7 @@ Fetching a remote 获取远程库
 Merge 是用来合并你的本地变化和其他人制作的变化。
 
 通常，你合并远程跟踪分支（比如，一个从远程库获取的分支）到你的本地分支中
-	
+​	
 	$ git merge remotename/branchname
 	# Merges updates made online with your local work
 

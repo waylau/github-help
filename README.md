@@ -14,7 +14,7 @@ Chinese translation of the Github Help(https://help.github.com/index.html) and t
 
 * [Be Social 社交化](Be Social.md)
 
-##Setup 安装
+## Setup 安装
 
 * [Signing up for a new GitHub account 注册新账号](https://github.com/waylau/github-help/blob/master/Signing%20up%20for%20a%20new%20GitHub%20account%20%E6%B3%A8%E5%86%8C%E6%96%B0%E8%B4%A6%E5%8F%B7.md)
 

@@ -1,10 +1,10 @@
-github-help Github帮助文档
+github-help GitHub帮助文档
 ===========
 ![github-help](http://i1288.photobucket.com/albums/b484/waylau/waylau%20blog/github_help_zps9f50a555.jpg)
 
-Chinese translation of the Github Help(https://help.github.com/index.html) and the other article collection.  
+Chinese translation of the GitHub Help(https://help.github.com/index.html) and the other article collection.  
 
-《Github 帮助文档》 中文翻译（包含了[官方文档](https://help.github.com/index.html)以及其他文章）。
+《GitHub 帮助文档》 中文翻译（包含了[官方文档](https://help.github.com/index.html)以及其他文章）。
 
 利用业余时间对此进行翻译，并在原文的基础上，插入配图，图文并茂方便用户理解。如有勘误欢迎指正，[点此](https://github.com/waylau/github-help/issues)提问。如有兴趣，也可以参与到本翻译工作中来 :)
 
@@ -82,7 +82,7 @@ Chinese translation of the Github Help(https://help.github.com/index.html) and t
 * [Fetching a remote 获取远程库](https://github.com/waylau/github-help/blob/master/Fetching%20a%20remote%20%E8%8E%B7%E5%8F%96%E8%BF%9C%E7%A8%8B%E5%BA%93.md)
 * [Which remote URL should I use 我应该用哪种远程 URL](https://github.com/waylau/github-help/blob/master/Which%20remote%20URL%20should%20I%20use%20%E6%88%91%E5%BA%94%E8%AF%A5%E7%94%A8%E5%93%AA%E7%A7%8D%E8%BF%9C%E7%A8%8B%20URL%20.md)
 * [Why is Git always asking for my password 为啥 Git 总是要询问我的密码](https://github.com/waylau/github-help/blob/master/Why%20is%20Git%20always%20asking%20for%20my%20password%20%E4%B8%BA%E5%95%A5%20git%20%E6%80%BB%E6%98%AF%E8%A6%81%E8%AF%A2%E9%97%AE%E6%88%91%E7%9A%84%E5%AF%86%E7%A0%81.md)
-* [Caching your GitHub password in Git 保存你的 Github 密码](https://github.com/waylau/github-help/blob/master/Caching%20your%20GitHub%20password%20in%20Git%20%E4%BF%9D%E5%AD%98%E4%BD%A0%E7%9A%84%20Github%20%E5%AF%86%E7%A0%81.md) 
+* [Caching your GitHub password in Git 保存你的 GitHub 密码](https://github.com/waylau/github-help/blob/master/Caching%20your%20GitHub%20password%20in%20Git%20%E4%BF%9D%E5%AD%98%E4%BD%A0%E7%9A%84%20GitHub%20%E5%AF%86%E7%A0%81.md) 
 
 ## SSH
 
@@ -94,7 +94,7 @@ Chinese translation of the Github Help(https://help.github.com/index.html) and t
 
 ## GitHub Pages Troubleshooting 页面问题解决
 
-## Writing on GitHub 在 Github 上写作
+## Writing on GitHub 在 GitHub 上写作
 
 * [Markdown Basics 关于 Markdown 的基础](Markdown Basics.md)
 * [GitHub Flavored Markdown](GitHub Flavored Markdown.md)
@@ -121,15 +121,17 @@ Chinese translation of the Github Help(https://help.github.com/index.html) and t
 * [Working with Tags 和标签工作](https://github.com/waylau/github-help/blob/master/Working%20with%20Tags%20%E5%92%8C%E6%A0%87%E7%AD%BE%E5%B7%A5%E4%BD%9C.md)
 * [Linking to releases 链接到发布包](https://github.com/waylau/github-help/blob/master/Linking%20to%20releases%20%E9%93%BE%E6%8E%A5%E5%88%B0%E5%8F%91%E5%B8%83%E5%8C%85.md)
 
-## GitHub for Mac 在 Mac 电脑上用 Github
+## GitHub for Mac 在 Mac 电脑上用 GitHub
 
-## GitHub for Windows 在 Windows 电脑上用 Github
+## GitHub for Windows 在 Windows 电脑上用 GitHub
 
 ## Graphs and Contributions 图和贡献
 
-* [Why are my contributions not showing up on my profile 为毛Github的contributions贡献值不增长了](https://github.com/waylau/github-help/blob/master/Why%20are%20my%20contributions%20not%20showing%20up%20on%20my%20profile%20%E4%B8%BA%E6%AF%9BGithub%E7%9A%84contributions%E8%B4%A1%E7%8C%AE%E5%80%BC%E4%B8%8D%E5%A2%9E%E9%95%BF%E4%BA%86.md)
+* [Why are my contributions not showing up on my profile 为毛GitHub的contributions贡献值不增长了](https://github.com/waylau/github-help/blob/master/Why%20are%20my%20contributions%20not%20showing%20up%20on%20my%20profile%20%E4%B8%BA%E6%AF%9BGitHub%E7%9A%84contributions%E8%B4%A1%E7%8C%AE%E5%80%BC%E4%B8%8D%E5%A2%9E%E9%95%BF%E4%BA%86.md)
 
 ## Automation 自动化
+
+* [禁用GitHub的Dependabot](https://waylau.com/disable-dependabot/) 
 
 ## Wiki
 
